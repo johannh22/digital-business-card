@@ -1,0 +1,14 @@
+.about {
+  color: #dcdcdc;
+  margin: 15px;
+}
+
+.about h4 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+
+.about p {
+  font-weight: 400;
+}

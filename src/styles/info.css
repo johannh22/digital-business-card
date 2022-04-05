@@ -44,7 +44,8 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  width: 90px;
+  width: 80px;
+  max-width: 90px;
   cursor: pointer;
   text-decoration: none;
   margin: 5px;
@@ -57,7 +58,6 @@
 .buttons p {
   font-weight: 500;
   font-size: 1.4rem;
-  margin-left: 5px;
 }
 
 .buttons img {
