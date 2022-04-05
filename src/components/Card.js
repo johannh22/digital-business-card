@@ -2,6 +2,7 @@ import Info from "./Info";
 import About from "./About";
 import Interests from "./Interests";
 import Footer from "./Footer";
+import "../styles/card.css";
 
 export default function Card() {
   return (

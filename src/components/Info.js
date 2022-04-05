@@ -1,6 +1,7 @@
 import profilePicture from "../images/DSC07388.JPG";
 import emailIcon from "../images/email-icon.svg";
 import linkedinIcon from "../images/linkedin-icon.svg";
+import "../styles/info.css";
 
 export default function Info() {
   return (

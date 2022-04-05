@@ -1,3 +1,4 @@
+import "../styles/interests.css";
 
 export default function Interests() {
   return (
