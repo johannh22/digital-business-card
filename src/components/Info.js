@@ -1,5 +1,4 @@
 import profilePicture from "../images/DSC07388.JPG";
-import "../style.css";
 
 export default function Info() {
   return (

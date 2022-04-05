@@ -1,7 +1,7 @@
 import { createRoot } from 'react-dom/client';
-import Card from "./Card";
+import App from "./App";
 import "./style.css";
 
 const container = document.getElementById('root');
 const root = createRoot(container);
-root.render(<Card tab="home" />);
+root.render(<App tab="home" />);
