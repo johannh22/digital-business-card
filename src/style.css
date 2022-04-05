@@ -11,6 +11,90 @@
   height: 868px;
 }
 
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .info img {
   width: 317px;
+}
+
+.name {
+  color: white;
+  font-size: 2.5rem;
+  text-align: center;
+  margin: 5px;
+}
+
+.profession {
+  color: #f3bf99;
+  font-size: 1.28rem;
+  text-align: center;
+  font-weight: 400;
+  margin: 5px;
+}
+
+.website {
+  color: #f5f5f5;
+  font-size: 1rem;
+  text-align: center;
+  margin: 5px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 10px;
+}
+
+.buttons a {
+  padding: 10px 27.5px;
+  border-radius: 10px;
+  border: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 90px;
+  cursor: pointer;
+  text-decoration: none;
+  margin: 5px;
+}
+
+.buttons a:hover {
+  border: 1px solid hsl(0, 0%, 70%);
+}
+
+.buttons p {
+  font-weight: 500;
+  font-size: 1.4rem;
+  margin-left: 5px;
+}
+
+.buttons img {
+  height: 16px;
+  width: 16px;
+}
+
+.e-mail {
+  background-color: #ffffff;
+  color: #374151;
+}
+
+.linkedin {
+  background-color: #5093e2;
+  color: #ffffff;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #1a1b21;
+}
+
+.card-container {
+  padding: 100px;
 }
