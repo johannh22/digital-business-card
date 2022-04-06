@@ -1,8 +1,9 @@
 import "../styles/about.css";
+import "../styles/long-text.css";
 
 export default function About() {
   return (
-    <div className="about">
+    <div className="long-text">
       <h4>About</h4>
       <p>
         I am a frontend developer with a particular interest in making things

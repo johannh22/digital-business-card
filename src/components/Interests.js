@@ -1,8 +1,9 @@
 import "../styles/interests.css";
+import "../styles/long-text.css";
 
 export default function Interests() {
   return (
-    <div className="interests">
+    <div className="long-text">
       <h4>Interests</h4>
       <p>
         Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.

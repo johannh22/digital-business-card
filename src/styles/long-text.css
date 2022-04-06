@@ -1,0 +1,14 @@
+.long-text {
+  color: #dcdcdc;
+  margin: 15px;
+}
+
+.long-text h4 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+
+.long-text p {
+  font-weight: 400;
+}
