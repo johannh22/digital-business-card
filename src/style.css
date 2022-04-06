@@ -7,14 +7,14 @@
 }
 body {
   /* This is kind of unusual, but it solves the problem */
-  background-color: #161619;
+  background-color: hsl(230, 15%, 15%);
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .card-container {
-  background-color: #23252c;
+  background-color: hsl(230, 15%, 20%);
   display: flex;
   justify-content: center;
   align-items: center;

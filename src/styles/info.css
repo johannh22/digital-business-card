@@ -10,14 +10,14 @@
 }
 
 .name {
-  color: white;
+  color: hsl(60, 30%, 96%);
   font-size: 2.5rem;
   text-align: center;
   margin: 5px;
 }
 
 .profession {
-  color: #f3bf99;
+  color: hsl(35, 100%, 75%);
   font-size: 1.28rem;
   text-align: center;
   font-weight: 400;
@@ -25,7 +25,7 @@
 }
 
 .website {
-  color: #f5f5f5;
+  color: hsl(250, 100%, 75%);
   font-size: 1rem;
   text-align: center;
   margin: 5px;
@@ -53,7 +53,7 @@
 }
 
 .buttons a:hover {
-  border: 1px solid hsl(0, 0%, 70%);
+  border: 1px solid hsl(230, 15%, 70%);
 }
 
 .buttons p {
@@ -67,11 +67,11 @@
 }
 
 .e-mail {
-  background-color: #ffffff;
+  background-color: hsl(60, 30%, 96%);
   color: #374151;
 }
 
 .linkedin {
-  background-color: #5093e2;
-  color: #ffffff;
+  background-color: hsl(203, 100%, 30%);
+  color: hsl(60, 30%, 96%);
 }
