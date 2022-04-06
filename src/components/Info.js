@@ -9,7 +9,7 @@ export default function Info() {
       <img src={profilePicture} alt="profile" />
       <div className="info-text">
         <h1 className="name">Johann Homonnai</h1>
-        <h3 className="profession">Electrical Engineer</h3>
+        <h3 className="profession">Electrical Engineering</h3>
         <p className="website">github.com/johannh22</p>
       </div>
       <div className="buttons">

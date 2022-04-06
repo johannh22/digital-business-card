@@ -6,8 +6,7 @@ export default function Interests() {
     <div className="long-text">
       <h4>Interests</h4>
       <p>
-        Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
-        Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+        Books! Music lover, aspirational guitar player. Anime viewer and manga reader. Karate. Football, mostly the original.
       </p>
     </div>
   );
