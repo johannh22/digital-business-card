@@ -1,12 +1,9 @@
 .card {
   width: 317px;
-  height: 868px;
   display: flex;
   flex-direction: column;
   align-items: center;
   background-color: #1a1b21;
-  /* padding: 0 100px; */
-
 }
 
 .card-container {

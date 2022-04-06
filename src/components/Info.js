@@ -13,11 +13,21 @@ export default function Info() {
         <p className="website">github.com/johannh22</p>
       </div>
       <div className="buttons">
-        <a className="e-mail" href="mailto:johannhomonnai@gmail.com" target="_blank">
+        <a
+          className="e-mail"
+          href="mailto:johannhomonnai@gmail.com"
+          target="_blank"
+          rel="noreferrer"
+        >
           <img src={emailIcon} alt="email icon" />
           <p>Email</p>
         </a>
-        <a className="linkedin" href="https://linkedin.com/in/johannh22" target="_blank">
+        <a
+          className="linkedin"
+          href="https://linkedin.com/in/johannh22"
+          target="_blank"
+          rel="noreferrer"
+        >
           <img src={linkedinIcon} alt="linkedin icon" />
           <p>LinkedIn</p>
         </a>
