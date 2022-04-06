@@ -1,6 +1,6 @@
 * {
   /* Reset settings */
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   margin: 0;
   padding: 0;
   font-size: 62.5%;
@@ -10,4 +10,15 @@ body {
   background-color: #161619;
   display: flex;
   justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  background-color: #23252c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 550px;
+  height: 550px;
+  margin: 50px;
 }
